@@ -3457,6 +3457,10 @@ input, select, textarea {
 		text-align: left;
 		overflow-x: hidden;
 	}
+	ul {
+		display:inline-block;
+		text-align: left;
+	}
 
 		.banner.style1 .content {
 			padding: 7rem 7rem 5rem 7rem ;
