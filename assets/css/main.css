@@ -32,7 +32,9 @@ footer, header, hgroup, menu, nav, section {
 
 .nav-menu {
 	display: flex;
-	justify-content: stretch;
+	justify-content: center;
+	align-content: center;
+	text-align: center;
 	padding: 0;
 	margin: 0;
 	list-style:none;
@@ -41,7 +43,7 @@ footer, header, hgroup, menu, nav, section {
 .nav-menu li{
 	flex: 1; 
 	text-align: center;
-	padding: 0;
+	padding: 1%;
 	margin: 0;
 }
 
